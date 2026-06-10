@@ -141,6 +141,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wengqiuyi.github.io/nn/autonomous_vehicle_monitor/</loc>
+         <lastmod>2026-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wengqiuyi.github.io/nn/carla_CAM/</loc>
          <lastmod>2026-06-10</lastmod>
          <changefreq>daily</changefreq>
