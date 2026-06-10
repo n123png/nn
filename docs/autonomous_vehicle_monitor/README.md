@@ -84,7 +84,7 @@
 ### 1. 多传感器融合感知
 
 <p align="center">
-  <img src="./images/carla_sensors.jpg" alt="Multi-Sensor Fusion" width="60%">
+  <img src="./images/carla_sensors.gif" alt="Multi-Sensor Fusion" width="60%">
 </p>
 
 系统部署了多类传感器，构建车辆周围 360° 的感知能力：
