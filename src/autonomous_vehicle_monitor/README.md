@@ -1,13 +1,4 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191110102MACQD9K64018705
-    ProduceID: 674423644648089_0-data_volume/7649324591784968486-files/所有对话/主对话/CARLA_README.md
-    ReservedCode1: ""
-    ContentPropagator: 001191110102MACQD9K64028705
-    PropagateID: 674423644648089#1781073740154
-    ReservedCode2: ""
----
+
 # CARLA 自动驾驶仿真平台
 
 <p align="center">

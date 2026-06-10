@@ -1,13 +1,4 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191110102MACQD9K64018705
-    ProduceID: 674423644648089_0-data_volume/7649324591784968486-files/所有对话/主对话/CARLA_README.md
-    ReservedCode1: ""
-    ContentPropagator: 001191110102MACQD9K64028705
-    PropagateID: 674423644648089#1781073740154
-    ReservedCode2: ""
----
+
 # CARLA 自动驾驶仿真平台
 
 <p align="center">
@@ -93,7 +84,7 @@ AIGC:
 ### 1. 多传感器融合感知
 
 <p align="center">
-  <img src="./images/carla_sensors.gif" alt="Multi-Sensor Fusion" width="90%">
+  <img src="./images/carla_sensors.jpg" alt="Multi-Sensor Fusion" width="60%">
 </p>
 
 系统部署了多类传感器，构建车辆周围 360° 的感知能力：
