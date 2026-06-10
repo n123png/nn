@@ -93,7 +93,7 @@ AIGC:
 ### 1. 多传感器融合感知
 
 <p align="center">
-  <img src="./images/carla_sensors.jpg" alt="Multi-Sensor Fusion" width="90%">
+  <img src="./images/carla_sensors.gif" alt="Multi-Sensor Fusion" width="90%">
 </p>
 
 系统部署了多类传感器，构建车辆周围 360° 的感知能力：
@@ -107,7 +107,7 @@ AIGC:
 ### 2. 多环境与天气模拟
 
 <p align="center">
-  <img src="./images/carla_weather.jpg" alt="Weather Simulation" width="75%">
+  <img src="./images/carla_weather.gif" alt="Weather Simulation" width="75%">
 </p>
 
 支持一键切换四种典型天气环境，模拟不同光照与路面条件：
@@ -124,7 +124,7 @@ AIGC:
 ### 3. 安全预警系统
 
 <p align="center">
-  <img src="./images/carla_fcw.jpg" alt="Safety Warning System" width="90%">
+  <img src="./images/carla_fcw.gif" alt="Safety Warning System" width="90%">
 </p>
 
 实时监控车辆行驶安全状态，提供多维度预警：
@@ -151,7 +151,7 @@ AIGC:
 ### 5. KPI 自动化评估与报告
 
 <p align="center">
-  <img src="./images/carla_dashboard.jpg" alt="KPI Dashboard" width="90%">
+  <img src="./images/carla_dashboard.gif" alt="KPI Dashboard" width="90%">
 </p>
 
 系统实时计算并记录多项关键性能指标，程序退出时自动生成 `kpi_report.txt` 报告：
